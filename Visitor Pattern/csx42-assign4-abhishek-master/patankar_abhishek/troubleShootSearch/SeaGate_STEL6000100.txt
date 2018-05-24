@@ -1,0 +1,6 @@
+If Debian has a Problem detecting the drive, it could be that the portable drive is not receiving enough power.
+Let the experts recover your files if there is physical damage to your device.
+Error code 43 is relatively common, and it will prevent you from accessing your files.
+Uninstall External Hard drive drivers
+To resolve this noise, connect the drive with both of the USB connectors (if possible), or if your drive only has one connector, try connecting it to other USB ports on your computer. If that does not work, connect it to a powered USB hub to ensure enough electrical power.
+If the tests did not detect any errors, try connecting the hard drive from only the data cable.

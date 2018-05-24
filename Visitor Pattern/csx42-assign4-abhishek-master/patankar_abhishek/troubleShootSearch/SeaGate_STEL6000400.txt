@@ -1,0 +1,6 @@
+All products from AMD have a compatible processor as far as dSeaGate is concerned.
+Check your antivirus and firewall software
+Find your Seagate Central drive, rightclick it and choose Delete volume. 
+Clicking to save them to another safe spot on a PC device.
+Please make sure that you close all open programs and files before you start the disk check.
+Noises can be caused by mounting issues. This is due to either a high vibration in the mounting hardware, or a potential drive failure.

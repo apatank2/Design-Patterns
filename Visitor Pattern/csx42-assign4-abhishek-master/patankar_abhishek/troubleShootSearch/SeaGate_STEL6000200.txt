@@ -1,0 +1,7 @@
+Plug adapter directly into the wall if in a power strip (Desktop Drives).
+Remove Paragon driver software and reinstall it.
+plug your external hard drive to a different usb port.
+Show All Hidden Devices to Make the Seagate External Hard Drive Detectable Again
+Hard clicks when the drive heads park during power saving modes like Standby or Hibernation.
+Just connect it via or Thunderbolt and it appears in Finder.
+Download latest patches.

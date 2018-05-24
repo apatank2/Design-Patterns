@@ -1,0 +1,9 @@
+CPU:processor
+Hardware:storage
+connector:USB
+frequency:high
+reading:open
+ISSUE:antivirus
+SAW:preview
+connection:plug
+get:Download
